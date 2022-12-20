@@ -25,7 +25,7 @@
 
   .. figure:: ./menu_creation/paramsheet1m.png
      :width: 6.67391in
-     :height: 3.20028in
+     :height: 3.20027in
      :align: center
      :alt: パラメータシート（ホスト/オペレーションあり）定義画面
 
